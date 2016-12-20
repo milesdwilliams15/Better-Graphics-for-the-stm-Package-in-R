@@ -1,0 +1,8 @@
+title: Making Better Graphics for Structural Topic Model Objects with R
+description: The base functionality for graphics in the stm package sucks, but with some tweeks using the par() command, you can make things look much much better.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
